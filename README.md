@@ -3,5 +3,5 @@
 #### Email: sballen085@gmail.com
 #### Website: None
 #### Image:
-! [text] WIN_20190920_15_58_51_Pro.jpg
+<img src="WIN_20190920_15_58_51_Pro.jpg" width="500">
 #### Avatar: None
