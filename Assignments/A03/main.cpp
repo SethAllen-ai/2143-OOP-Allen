@@ -2,7 +2,6 @@
 
 using namespace std;
 
-
 class CircularArrayQue {
 private:
     int *Container;
@@ -20,15 +19,17 @@ private:
     }
 
 public:
+    //Default constructor
     CircularArrayQue() {
         Container = new int[10];
         init(10);
     }
+    //overloaded constructor
     CircularArrayQue(int size) {
         Container = new int[size];
         init(size);
     }
-
+    //adds an item to the que
     void Push(int item) {
         if (!Full()) {
             Container[Rear] = item;
@@ -38,18 +39,20 @@ public:
             cout << "FULL!!!!" << endl;
         }
     }
-
+    //destructor
     int Pop() {
         int temp = Container[Front];
+        // rolls front back to one when it hits end of the que
         Front = (Front + 1) % QueSize;
         CurrentSize--;
         return temp;
     }
+    // access private class members
     friend ostream &operator<<(ostream &os, const CircularArrayQue &other);
 };
-
+// overloads the << operator to print the list each time the command cout<< c1 << endl;
 ostream &operator<<(ostream &os, const CircularArrayQue &other) {
-
+    //travels through the list and returns each number back to os
     for (int i = other.Front; i < other.CurrentSize; i = (i + 1) % other.QueSize) {
         os << other.Container[i] << " ";
     }
@@ -72,12 +75,17 @@ int main() {
     // C1.Push(22);
     // C1.Push(99);
     // C1.Push(100);
-
+    
+    //adds an item to the que
     C1.Push(1);
+    //adds an item to the que
     C1.Push(2);
+    //adds an item to the que
     C1.Push(3);
+    
     // C1.Push(6);
     // C1.Push(7);
+    //sends out all the numbers inputted into the array que
     cout << C1 << endl;
 
     // C1.Push(1);
