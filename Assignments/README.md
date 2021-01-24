@@ -1,3 +1,3 @@
-| #   | Folder Link | Assignment Description |
+ #  | Folder Link | Assignment Description |
  -----
 | A03 |             |                        |
