@@ -13,7 +13,7 @@ private:
         Front = Rear = CurrentSize = 0;
         QueSize = size;
     }
-
+    // if que is full sets the boolean value equal to true
     bool Full() {
         return CurrentSize == QueSize;
     }
