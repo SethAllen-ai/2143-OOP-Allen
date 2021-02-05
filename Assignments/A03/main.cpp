@@ -1,13 +1,31 @@
+///////////////////////////////////////////////////////////////////////////////
+//                   
+// Author:           Dr. Griffin
+// Email:            sballen085@gmail.com
+// Label:            A03
+// Title:            Circular array based que
+// Course:           OOP 2143
+// Semester:         spring 2021
+//
+// Description:
+//       this is to just set up a circular que that will wrap back around 
+//       itself once it hits the end of the que than sees if that slot is empty if it is it fills that slot
+//
+// Usage:
+//       how to use the program if necessary
+//
+// Files:            main.cpp  : driver program
+/////////////////////////////////////////////////////////////////////////////////
 #include <iostream>
 
 using namespace std;
 
 class CircularArrayQue {
 private:
-    int *Container;
-    int Front;
+    int *Container;  // pointer
+    int Front;       // Looks at the front of the list
     int Rear;
-    int QueSize; // items in the queue
+    int QueSize;    // items in the queue
     int CurrentSize;
     void init(int size = 0) {
         Front = Rear = CurrentSize = 0;
