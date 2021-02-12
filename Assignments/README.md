@@ -1,6 +1,6 @@
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
-|<a href="https://github.com/SethAllen-ai/2143-OOP-Allen/tree/main/Assignments/A03">A03 </a> | https://github.com/SethAllen-ai/2143-OOP-Allen/tree/main/Assignments/A03| To show that we can comment code|
-|  A04  | https://github.com/SethAllen-ai/2143-OOP-Allen/tree/main/Assignments/A04| Cover Page |
-|  A05  | https://github.com/SethAllen-ai/2143-OOP-Allen/tree/main/Assignments/A05| Definitions|
-|  A06  | https://github.com/SethAllen-ai/2143-OOP-Allen/tree/main/Assignments/A06| Setting up sfml file/Graphics|
+|<a href="https://github.com/SethAllen-ai/2143-OOP-Allen/tree/main/Assignments/A03"> A03 </a> |<a href="https://github.com/SethAllen-ai/2143-OOP-Allen/tree/main/Assignments/A03"> Comment </a>|<a href="https://github.com/SethAllen-ai/2143-OOP-Allen/tree/main/Assignments/A03">To show that we can comment code</a>|
+|<a href="https://github.com/SethAllen-ai/2143-OOP-Allen/tree/main/Assignments/A04"> A04 </a> | <a href="https://github.com/SethAllen-ai/2143-OOP-Allen/tree/main/Assignments/A04"> Cover Page </a>| <a href="https://github.com/SethAllen-ai/2143-OOP-Allen/tree/main/Assignments/A04"> My first cover page </a> |
+|<a href="https://github.com/SethAllen-ai/2143-OOP-Allen/tree/main/Assignments/A05"> A05 </a> |<a href="https://github.com/SethAllen-ai/2143-OOP-Allen/tree/main/Assignments/A05"> Vocabulary </a> |<a href="https://github.com/SethAllen-ai/2143-OOP-Allen/tree/main/Assignments/A05"> Vocabulary Definitions </a>|
+|<a href="https://github.com/SethAllen-ai/2143-OOP-Allen/tree/main/Assignments/A06"> A06 </a> |<a href="https://github.com/SethAllen-ai/2143-OOP-Allen/tree/main/Assignments/A06"> SFML File Build </a> |<a href="https://github.com/SethAllen-ai/2143-OOP-Allen/tree/main/Assignments/A06"> Setting up sfml file/Graphics </a>|
