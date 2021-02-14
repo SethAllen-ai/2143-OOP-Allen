@@ -10,36 +10,36 @@ This a UML diagram of a game
 
 ### Player
 
-<img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/draw.io.street" width="200">
+<img src="https://github.com/SethAllen-ai/2143-OOP-Allen/blob/main/Assignments/A07/Pictures/PlayerClass.PNG" width="200">
 
 ### Debris
 
-<img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/draw.io.student" width="200">
+<img src="https://github.com/SethAllen-ai/2143-OOP-Allen/blob/main/Assignments/A07/Pictures/DebrisClass.PNG" width="200">
 
 ### Text
 
-<img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/draw.io.professor" width="200">
+<img src="https://github.com/SethAllen-ai/2143-OOP-Allen/blob/main/Assignments/A07/Pictures/TextClass.PNG" width="200">
 
 ### Scoring
 
-<img src="draw.io.wholething" width="400">
+<img src="https://github.com/SethAllen-ai/2143-OOP-Allen/blob/main/Assignments/A07/Pictures/ScoringClass.PNG" width="200">
 
 ### Shape
 
-
+<img src="https://github.com/SethAllen-ai/2143-OOP-Allen/blob/main/Assignments/A07/Pictures/Shape%20Class.PNG" width="200">
 
 ### Movement
 
-
+<img src="https://github.com/SethAllen-ai/2143-OOP-Allen/blob/main/Assignments/A07/Pictures/MovementClass.PNG" width="200">
 
 ### Color
 
-
+<img src="https://github.com/SethAllen-ai/2143-OOP-Allen/blob/main/Assignments/A07/Pictures/ColorClass.PNG" width="200">
 
 ### Collision
 
-
+<img src="https://github.com/SethAllen-ai/2143-OOP-Allen/blob/main/Assignments/A07/Pictures/CollisionClass.PNG" width="200">
 
 ### Diagram
 
-<img src="https://app.diagrams.net/#G1sTnnMTv-86nxEXxG74d0DP6aolaMoHbZ" width="400">
+<img src="https://github.com/SethAllen-ai/2143-OOP-Allen/blob/main/Assignments/A07/Pictures/AllClasses.PNG" width="400">
