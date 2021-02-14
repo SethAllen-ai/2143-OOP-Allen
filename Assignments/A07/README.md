@@ -6,7 +6,7 @@ This a UML diagram of a game
 
 ### Game
 
-<img src="https://cs.msutexas.edu/~griffin/zcloud/zcloud-files/draw.io.person" width="200">
+<img src="https://github.com/SethAllen-ai/2143-OOP-Allen/blob/main/Assignments/A07/Pictures/GameClass.PNG" width="200">
 
 ### Player
 
