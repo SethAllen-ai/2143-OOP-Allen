@@ -34,7 +34,7 @@
 
 > It bundles the data into one unit.
 
-####Friends
+### Friends
 
 > It is given access to private or protected data members.
 
