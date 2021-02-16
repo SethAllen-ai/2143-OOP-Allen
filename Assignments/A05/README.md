@@ -6,31 +6,31 @@
 
 ## Definitions
 
-#### Abstraction
+### Abstraction
 
 > Shows only essetinal data atrributes.
 
-####Attributes / Properties
+### Attributes / Properties
 
 > They are stored in the class and only represent the state of the class.
 
-####Class
+### Class
 
 > Classes provide intials values for states. 
 
-####Class Variable
+### Class Variable
 
 > Is a variable declared with a static modifier which only 1 copy exists.
 
-####Composition
+### Composition
 
 > Referances 1 or more objects of other classes instance variable.
 
-####Constructor
+### Constructor
 
 > It's a subroutine that creates an object.
 
-####Encapsulation
+### Encapsulation
 
 > It bundles the data into one unit.
 
@@ -38,39 +38,39 @@
 
 > It is given access to private or protected data members.
 
-####Inheritance
+### Inheritance
 
 > Basing object upon another object.
 
-####Instance Variable
+### Instance Variable
 
 > It creates a separate copy of the instiated variable/
 
-####Member Variable
+### Member Variable
 
 > It is a associated with a specific object and accessible to all methods.
 
-####Method
+### Method
 
 > Procedure connected with a message or an object.
 
-####Multiple Inheritance
+### Multiple Inheritance
 
 > It can inherit from multiple superclasses.
 
-####Object
+### Object
 
 > Is an abstract data type.
 
-####Overloading
+### Overloading
 
 > Lets you define the same message multiple times.
 
-####Polymorphism
+### Polymorphism
 
 > Allows an object to take on many forms.
 
-####Public / Private / Protected
+### Public / Private / Protected
 
 > Public: Can be accessed by anywhere.
 
@@ -78,10 +78,10 @@
 
 > Protected: Can be accessed within the class.
 
-####Static
+### Static
 
 > statically defines member variable.
 
-####Virtual
+### Virtual
 
 > Nested class inside of a class.
