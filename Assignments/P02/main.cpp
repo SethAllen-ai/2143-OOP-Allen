@@ -20,7 +20,6 @@
 /////////////////////////////////////////////////////////////////////////////////
 #include <fstream>
 #include <iostream>
-#include <string>
 #include "BinaryTree.h"
 
 int main()
