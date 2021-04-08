@@ -1,12 +1,8 @@
 #include <iostream>
 #include <fstream>
-#include <time.h>
 #include "BinaryTree.h"
 
 using namespace std;
-
-//https://visualgo.net/en/bst
-
 
 BinaryTree::BinaryTree()
 {
