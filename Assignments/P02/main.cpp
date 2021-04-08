@@ -8,8 +8,7 @@
 // Semester:         2021 Spring 
 //
 // Description:
-//       Builds a self balancing binary tree from random values
-//	     from a class
+//       Builds a binary tree from an input file
 //	
 //Note:	assembled in vscode 2019
 //
